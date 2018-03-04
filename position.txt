@@ -1,0 +1,2 @@
+--posisi mouse ikut resolusi
+--posisi gb ikut kotak dari main camera
